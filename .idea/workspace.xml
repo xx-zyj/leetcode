@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12aa7a5a-e25f-4736-b1ef-ca3326f905de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18.deleteNode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.getKthFromEnd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36.treeToDoublyList.js" afterDir="false" />
-    </list>
+    <list default="true" id="12aa7a5a-e25f-4736-b1ef-ca3326f905de" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633265544982</updated>
-      <workItem from="1633265547023" duration="8329000" />
+      <workItem from="1633265547023" duration="9107000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init">
       <created>1633265822596</created>
